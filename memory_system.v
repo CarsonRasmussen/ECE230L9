@@ -7,6 +7,8 @@ module memory_system(
 
 wire [7:0] connect [3:0];
 wire connect2 [3:0];
+wire [7:0] connect3 [3:0];
+
 wire [7:0] m0, m1, m2, m3;
 wire s0, s1, s2, s3;
 
